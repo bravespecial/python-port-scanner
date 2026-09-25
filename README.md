@@ -1,7 +1,11 @@
 # 🔐 Python TCP Port Scanner
 
 A beginner-friendly cybersecurity project that uses Python socket programming to identify commonly used TCP ports that are accessible on an authorized target.
+## 🖥️ Project Demo
 
+![Port Scanner Demo](port-scanner-demo.png)
+
+The screenshot above shows an example scan against an authorized localhost target.
 ## 🎯 Project Objective
 
 The purpose of this project is to understand basic network reconnaissance and how exposed network services can be identified through TCP connections.
